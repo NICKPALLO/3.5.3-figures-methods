@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Projects C++\3.5.3 Figures, methods\3.5.3 Figures, methods\main.cpp(156,47): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\Projects C++\3.5.3 Figures, methods\3.5.3 Figures, methods\main.cpp(170,47): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  3.5.3 Figures, methods.vcxproj -> D:\Projects C++\3.5.3 Figures, methods\x64\Debug\3.5.3 Figures, methods.exe
